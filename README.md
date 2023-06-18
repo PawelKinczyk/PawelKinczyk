@@ -21,6 +21,11 @@ If my work improve your productivity please buy me a ☕ It will help me do more
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PawelKinczyk&theme=transparent&card_width=800)](https://git.io/streak-stats)
 
+My skills:
+[![My Skills](https://skillicons.dev/icons?i=py, vscode)](https://skillicons.dev)
+
+Learning:
+[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 <!---
 PawelKinczyk/PawelKinczyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
