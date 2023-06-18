@@ -20,8 +20,8 @@ If my work improve your productivity please buy me a ☕ It will help me do more
 <img src="https://github-readme-stats.vercel.app/api?username=PawelKinczyk&show_icons=true&theme=transparent" width="800">
 
 <p align="left">
-<img height="160em" src="https://streak-stats.demolab.com?user=PawelKinczyk&theme=transparent" align = "left"/>
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawelKinczyk&theme=transparent" align = "left"/>
+<img height="160em" src="https://streak-stats.demolab.com?user=PawelKinczyk&theme=transparent" align = "center"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawelKinczyk&theme=transparent" align = "center"/>
 </p>
 
 
