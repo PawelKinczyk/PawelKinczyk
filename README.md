@@ -25,10 +25,10 @@ If my work improve your productivity please buy me a ☕ It will help me do more
 </p> 
 <p align="left">
 <a My skills:</a>
-<a [![My Skills](https://skillicons.dev/icons?i=py,vscode)](https://skillicons.dev)</a>
+<img [![My Skills](https://skillicons.dev/icons?i=py,vscode)](https://skillicons.dev)</a>
 
 <a Learning:</a>
-<a [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)</a>
+<img [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)</a>
 </p> 
 <!---
 PawelKinczyk/PawelKinczyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
