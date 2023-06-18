@@ -23,13 +23,16 @@ If my work improve your productivity please buy me a ☕ It will help me do more
 <img height="160em" src="https://streak-stats.demolab.com?user=PawelKinczyk&theme=transparent" align = "left"/>
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawelKinczyk&theme=transparent" align = "left"/>
 </p> 
-<p align="left">
-<a My skills:</a>
-<img [![My Skills](https://skillicons.dev/icons?i=py,vscode)](https://skillicons.dev)</a>
 
-<a Learning:</a>
-<img [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)</a>
-</p> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,vscode" />
+  </a>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet" />
+  </a>
+</p>
+
 <!---
 PawelKinczyk/PawelKinczyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
