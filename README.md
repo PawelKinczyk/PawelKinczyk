@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @PawelKinczyk
+👋 Hi, I’m @PawelKinczyk. I am MEP engineer. I create tools for the construction industry to optimize and atomate boring tasks. Feel free to use my programs!
+If my work improve your productivity please buy me a ☕ It will help me do more!
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)" />
+  </a>
 
 Stay connected!
 <p align="left">
