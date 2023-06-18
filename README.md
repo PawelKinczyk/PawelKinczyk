@@ -19,6 +19,8 @@ If my work improve your productivity please buy me a ☕ It will help me do more
 
 <img src="https://github-readme-stats.vercel.app/api?username=PawelKinczyk&show_icons=true&theme=transparent" width="800">
 
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={PawelKinczyk}&theme={default}
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=PawelKinczyk&theme=transparent&card_width=800)](https://git.io/streak-stats)
 
 My skills:\
