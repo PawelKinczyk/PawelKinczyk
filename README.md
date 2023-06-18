@@ -22,7 +22,7 @@ If my work improve your productivity please buy me a ☕ It will help me do more
 <p align="left">
 <img height="160em" src="https://streak-stats.demolab.com?user=PawelKinczyk&theme=transparent" align = "left"/>
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawelKinczyk&theme=transparent" align = "left"/>
-</p> <br>
+</p> 
 
 My skills:\
 [![My Skills](https://skillicons.dev/icons?i=py,vscode)](https://skillicons.dev)
