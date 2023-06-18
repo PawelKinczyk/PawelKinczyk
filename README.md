@@ -24,12 +24,13 @@ If my work improve your productivity please buy me a ☕ It will help me do more
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawelKinczyk&theme=transparent" align = "left"/>
 </p>
 
-\
+<p align="left">
 My skills:\
 [![My Skills](https://skillicons.dev/icons?i=py,vscode)](https://skillicons.dev)
 
 Learning:\
 [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+</p>
 <!---
 PawelKinczyk/PawelKinczyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
