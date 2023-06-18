@@ -1,4 +1,4 @@
-👋 Hi, I’m @PawelKinczyk. I am MEP engineer. I create tools for the construction industry to optimize and atomate boring tasks. Feel free to use my programs! \
+**👋 Hi, I’m @PawelKinczyk. I am MEP engineer. I create tools for the construction industry to optimize and atomate boring tasks. Feel free to use my programs!** \
 If my work improve your productivity please buy me a ☕ It will help me do more! \
 <a href="http://twitter.com/MishManners" target="blank"><img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" title = "Buy me coffee" alt="" height="50" /></a>
 
