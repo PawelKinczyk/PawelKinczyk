@@ -1,17 +1,17 @@
 **👋 Hi, I’m @PawelKinczyk. I am MEP engineer. I create tools for the construction industry to optimize and atomate boring tasks. Feel free to use my programs!** \
 If my work improve your productivity please buy me a ☕ It will help me do more! \
 \
-<a href="http://twitter.com/MishManners" target="blank"><img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" title = "Buy me coffee" alt="" height="50" /></a>
+<a href="https://www.buymeacoffee.com/produktywnl" target="blank"><img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" title = "Buy me coffee" alt="" height="50" /></a>
 
-Stay connected!
+**Stay connected!**
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="[https://skillicons.dev](https://www.linkedin.com/in/pawe%C5%82-ki%C5%84czyk/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="discordapp.com/users/Pan_Pawel_">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="[https://skillicons.dev](https://produktywnyprojektant.com/en/)">
     <img src="https://skillicons.dev/icons?i=wordpress" />
   </a>
 </p>
