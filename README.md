@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @PawelKinczyk
-- 👀 I’m interested in mep engineering
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate in counstraction field projects
-- If you want to know more, please visit my blog: https://produktywnyprojektant.com
 
-<p align="center">
+Stay connected!
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
