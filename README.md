@@ -5,13 +5,13 @@ If my work improve your productivity please buy me a ☕ It will help me do more
 
 **Stay connected!**
 <p align="left">
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/pawe%C5%82-ki%C5%84czyk/)">
+  <a href="https://www.linkedin.com/in/pawe%C5%82-ki%C5%84czyk/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://discordapp.com/users/pan_pawel">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="[https://skillicons.dev](https://produktywnyprojektant.com/en/)">
+  <a href="https://produktywnyprojektant.com/en/">
     <img src="https://skillicons.dev/icons?i=wordpress" />
   </a>
 </p>
