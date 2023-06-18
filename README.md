@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate in counstraction field projects
 - If you want to know more, please visit my blog: https://produktywnyprojektant.com
 
+<img src="https://github-readme-stats.vercel.app/api?username=PawelKinczyk&show_icons=true&theme=default" width="400">
+
 <!---
 PawelKinczyk/PawelKinczyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
