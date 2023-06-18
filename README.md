@@ -24,8 +24,8 @@ If my work improve your productivity please buy me a ☕ It will help me do more
 [![GitHub Streak](https://streak-stats.demolab.com?user=PawelKinczyk&theme=transparent&card_width=800)](https://git.io/streak-stats)
 
 <p align="center">
-<img height="180em" src="https://streak-stats.demolab.com?user=PawelKinczyk&theme=transparent" align = "center"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawelKinczyk&theme=default" align = "center"/>
+<img height="160em" src="https://streak-stats.demolab.com?user=PawelKinczyk&theme=transparent" align = "center"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawelKinczyk&theme=default" align = "center"/>
 </p>
 
 My skills:\
