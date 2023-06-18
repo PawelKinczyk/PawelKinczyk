@@ -8,7 +8,7 @@ If my work improve your productivity please buy me a ☕ It will help me do more
   <a href="[https://skillicons.dev](https://www.linkedin.com/in/pawe%C5%82-ki%C5%84czyk/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="discordapp.com/users/Pan_Pawel_">
+  <a href="https://discordapp.com/users/pan_pawel">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
   <a href="[https://skillicons.dev](https://produktywnyprojektant.com/en/)">
